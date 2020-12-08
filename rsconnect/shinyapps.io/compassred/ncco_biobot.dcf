@@ -1,0 +1,12 @@
+name: ncco_biobot
+title: ncco_biobot
+username:
+account: compassred
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2521834
+bundleId: 3961809
+url: https://compassred.shinyapps.io/ncco_biobot/
+when: 1607455806.07159
+asMultiple: FALSE
+asStatic: FALSE
